@@ -1,6 +1,7 @@
 ---
 title: AniList
-parent: Third-party Providers
+parent: Third-party providers
+layout: default
 nav_order: 1
 ---
 
