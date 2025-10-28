@@ -12,7 +12,7 @@ cd tierrating
 wget https://github.com/RatzzFatzz/tierrating-ui/blob/main/docker-compose.yml
 ```
 2. Configure the services you want to use 
-   * [AniList](https://docs.tierlist.de/docs/installation/providers/anilist.md)
+   * [AniList](https://docs.tierrating.de/docs/installation/providers/anilist)
 4. Run the application
 ```shell
 docker compose up -d
