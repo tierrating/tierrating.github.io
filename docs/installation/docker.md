@@ -9,7 +9,7 @@ nav_order: 1
 ```shell
 mkdir tierrating
 cd tierrating
-wget https://github.com/RatzzFatzz/tierrating-ui/blob/main/docker-compose.yml
+wget https://raw.githubusercontent.com/tierrating/tierrating-ui/refs/heads/main/docker-compose.yml
 ```
 2. Configure the services you want to use 
    * [AniList](https://docs.tierrating.de/docs/installation/providers/anilist)
